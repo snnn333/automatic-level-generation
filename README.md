@@ -1,1 +1,1 @@
-# automayic-level-generation
+# automatic-level-generation
