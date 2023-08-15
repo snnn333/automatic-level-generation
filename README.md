@@ -21,4 +21,4 @@
 
 
 # About
-Our approach employs a comprehensive framework that divides the level generation process into three key components: path creation, tower placement, and zombie wave generation. By leveraging genetic algorithms and reinforcement learning techniques, we compare and combine the outcomes of these components to produce enhanced game levels. To evaluate the generated levels, we employ Q-learning, a widely recog- nized reinforcement learning technique. Through this evalu- ation, we aim to assess the quality of the levels and quantify the improvements achieved by our generation process.
+Our approach employs a comprehensive framework that divides the level generation process into three key components: path creation, tower placement, and zombie wave generation. By leveraging genetic algorithms and reinforcement learning techniques, we compare and combine the outcomes of these components to produce enhanced game levels. To evaluate the generated levels, we employ Q-learning, a widely recognized reinforcement learning technique. Through this evaluation, we aim to assess the quality of the levels and quantify the improvements achieved by our generation process.
