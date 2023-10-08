@@ -15,7 +15,7 @@
   margin-left: 16.66666667%;
 }
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 15px;
   line-height: 1.42857143;
   color: #333333;
@@ -33,7 +33,7 @@ h4,
 h5,
 p,
 a {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .col-xs-1,
@@ -89,6 +89,8 @@ a {
   padding-left: 15px;
   padding-right: 15px;
 }
-#vid-content{
-  width: 100%;
+#vid-content {
+  width: 60%;
+  margin: auto;
+  display: flex;
 }
